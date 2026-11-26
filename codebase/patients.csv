@@ -1,0 +1,7 @@
+ ,Age,Gender,Department,Admit_Date,Discharge_Date
+P1,45,M,Cardiology,01-08-2026,05-08-2026
+P2,30,F,Ortho,02-08-2026,04-08-2026
+P3,60,M,Cardiology,03-08-2026,06-08-2026
+P1,45,M,Cardiology,01-08-2026,05-08-2026
+P4,25,F,ENT,10-08-2026,10-08-2026
+P5,,M,ENT,06-08-2026,07-08-2026
